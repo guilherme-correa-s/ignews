@@ -1,0 +1,21 @@
+{
+  "id": "7135e203-84bc-4a2a-86fd-c880120ea165",
+  "uid": "accusantium-temporibus-laborum",
+  "type": "publication",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Nostrud magna fugiat excepteur proident irure ad ullamco est laboris laboris dolore duis est tempor. Adipisicing occaecat est esse nulla exercitation velit voluptate consectetur nostrud veniam nisi sunt sunt magna. Dolor veniam ipsum exercitation officia esse dolore mollit labore.",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Aliquip voluptate dolor cupidatat et aliquip non pariatur ut aliquip ut eu consectetur ut sit tempor. Dolore amet reprehenderit occaecat voluptate consequat.",
+        "spans": []
+      }
+    ]
+  }
+}
